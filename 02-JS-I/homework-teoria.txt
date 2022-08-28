@@ -1,0 +1,22 @@
+Definiciones:
+
+1. ¿Que es una Variable?
+Es un espacio de memoria reservada que utiliza el programa para  almacenar algun dato de cualquier tipo.
+
+2. ¿Que es una String?
+
+Es uno de los tipos de dato que se maneja en JS y se refiere a cadena de caracteres o texto. Se encierran siempre en comillas dobles o sencillas.
+
+3. ¿Que es una Funcion?
+
+Le dice a la computadora que hago algo, agrupa dentro de si un codigo que puede ser reutilizado en diferentes partes del codigo. Cuando la funcion lleva parametros, estos le dan informacion adicional a la computadora de las acciones que debe llevar a cabo esa funcion.
+
+4. ¿Que es una declaracion if?
+
+Esta declaracion se usa en programacion para controlar el flujo del codigo a traves de condiciones que pueden ser dar el valor de true o false.
+
+5. ¿Que son los valores booleanos true y false?
+
+Este es otro tipo de dato de JS. Estos datos solo pueden tener el valor de falso y verdadero y estan basados en la logica de los numeros binarios.
+
+
