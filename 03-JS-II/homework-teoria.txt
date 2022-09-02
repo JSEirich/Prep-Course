@@ -1,0 +1,12 @@
+1. for
+Es un bucle o ciclo que permite repetir una secuencia de codigo, cierta cantidad de veces definida.
+
+2. && (and) 
+El operador "y" permite evaluar una condicion a verdadera o falsa. Solamente la condicion sera verdadera cuando las dos condiciones sean verdaderas.
+
+3. || (or)
+El operador "o" permite evaluar una condicion a verdadera o falsa. Solamente la condicion sera verdadera cuando una o ambas de las condiciones sea verdadera.
+
+4. !(not)
+El operador de "negacion" se usa anteponiendose al valor y esto permite negar una respuesta. Si es true pasa a false y vicerversa.
+
