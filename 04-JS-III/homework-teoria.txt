@@ -1,0 +1,4 @@
+1. Array.
+
+Un arreglo es una coleccion de elementos de JavaScript. Puede contener cualquier tipo de dato, incluso mas arreglos u objetos.
+
