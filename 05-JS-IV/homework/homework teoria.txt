@@ -1,0 +1,6 @@
+1. objetos: un objeto es una coleccion de propiedades.
+2. propiedades: es una relacion key - value.
+3. Metodos: asi se le llama a una funcion cuando es propiedad de un objeto.
+4. Bucle for in: me permite iterar igual que un for dentro de un objeto.
+5. Notacion de puntos: dot notation, es de facil uso, tal vez el mas comun . Su caracteristica es que la propiedad, que se invoque, debe ser literal.
+6. Braket notation: esta es util especialmente para el uso variables para trabajar con las propiedades de un objeto.
